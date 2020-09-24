@@ -1,0 +1,12 @@
+{
+    "IsEncrypted": false,
+    "Values": {
+      "NJRA_API_KEY": "xxx",
+      "NJRA_API_SECRET": "xxx",
+      "NJRA_projectSummaryFormId": "CO20091000xxx",
+      "NJRA_projectSummaryFlowUrl": "https://prod-11.usgovtexas.logic.azure.us:443/workflows/xxxxxx...",
+      "AzureWebJobsStorage": "",
+      "FUNCTIONS_WORKER_RUNTIME": "node"
+    }
+  }
+  
